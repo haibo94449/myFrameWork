@@ -1,0 +1,16 @@
+{
+    "name": "herbie/self-frame-work",
+    "description": "框架写着玩儿",
+    "type": "library",
+    "require": {
+        "php": ">= 7.2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "haibo666",
+            "email": "jiahb@fengxingss.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
